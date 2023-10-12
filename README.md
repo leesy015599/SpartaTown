@@ -1,5 +1,9 @@
 # SpartaTown
 
+## 프로젝트 소개
+* 내일배움캠프 Unity 게임개발 심화 개인과제
+* A08 이소이
+
 ## 클래스 구조 및 설명
 
 ### 1. PlayerEventController
